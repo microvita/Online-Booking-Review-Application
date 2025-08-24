@@ -47,10 +47,6 @@ Follow these instructions to set up and run the application:
    npm start
    ```
 
-## API Documentation
-
-For detailed API documentation and examples of how to use the endpoints, please take a look at the [API Documentation](https://documenter.getpostman.com/view/28416524/2s9YBxacHG).
-
 ## Features
 
 - **User Management**: Register, log in, and manage user accounts.
